@@ -1,0 +1,57 @@
+[
+    {
+        "name": "ghjk",
+        "username": "kjhgfghj",
+        "password": "jhgfdfghj",
+        "wins": 0,
+        "losses": 0,
+        "plays": 0,
+        "session_wins": 0,
+        "session_losses": 0,
+        "session_plays": 0
+    },
+    {
+        "name": "abdul",
+        "username": "abdulrauf",
+        "password": "jjkk3344",
+        "wins": 0,
+        "losses": 0,
+        "plays": 0,
+        "session_wins": 0,
+        "session_losses": 0,
+        "session_plays": 0
+    },
+    {
+        "name": "raman",
+        "username": "abdulraman",
+        "password": "123456789",
+        "wins": 0,
+        "losses": 0,
+        "plays": 0,
+        "session_wins": 2,
+        "session_losses": 0,
+        "session_plays": 17
+    },
+    {
+        "name": "musa",
+        "username": "zainab musa",
+        "password": "si7P9JMrYzKt",
+        "wins": 0,
+        "losses": 2,
+        "plays": 16,
+        "session_wins": 0,
+        "session_losses": 0,
+        "session_plays": 0
+    },
+    {
+        "name": "MUSTY",
+        "username": "MUSTY",
+        "password": "MUSTY12345",
+        "wins": 0,
+        "losses": 0,
+        "plays": 0,
+        "session_wins": 0,
+        "session_losses": 0,
+        "session_plays": 0
+    }
+]
